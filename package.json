@@ -7,8 +7,8 @@
     "ruinguard",
     "mongoose"
   ],
-  "homepage": "https://github.com/SayuMains/RuinGuard#readme",
-  "bugs": "https://github.com/SayuMains/RuinGuard/issues",
+  "homepage": "https://github.com/Khaenri-ah/ruinguard-mongoose#readme",
+  "bugs": "https://github.com/Khaenri-ah/ruinguard-mongoose/issues",
   "type": "module",
   "author": {
     "name": "AroLeaf",
@@ -27,8 +27,7 @@
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SayuMains/RuinGuard.git",
-    "directory": "mongoose/"
+    "url": "https://github.com/Khaenri-ah/ruinguard-mongoose.git"
   },
   "exports": "./index.js",
   "dependencies": {
@@ -36,6 +35,6 @@
     "mongoose": "^6.0.13"
   },
   "devDependencies": {
-    "@ruinguard/core": "file:../core"
+    "@ruinguard/core": "file:../ruinguard-core"
   }
 }
