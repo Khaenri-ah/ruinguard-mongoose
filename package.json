@@ -1,0 +1,41 @@
+{
+  "name": "@ruinguard/mongoose",
+  "version": "0.1.0",
+  "description": "A RuinGuard module that adds a mongoose database to your bot",
+  "keywords": [
+    "modular",
+    "ruinguard",
+    "mongoose"
+  ],
+  "homepage": "https://github.com/SayuMains/RuinGuard#readme",
+  "bugs": "https://github.com/SayuMains/RuinGuard/issues",
+  "type": "module",
+  "author": {
+    "name": "AroLeaf",
+    "url": "https://leaf.moe/"
+  },
+  "contributors": [
+    {
+      "name": "MRDGH2821",
+      "url": "https://bit.ly/mrdgh2821"
+    },
+    {
+      "name": "Zyla",
+      "url": "https://github.com/Eilyz"
+    }
+  ],
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SayuMains/RuinGuard.git",
+    "directory": "mongoose/"
+  },
+  "exports": "./index.js",
+  "dependencies": {
+    "@ruinguard/core": "^0.1.1",
+    "mongoose": "^6.0.13"
+  },
+  "devDependencies": {
+    "@ruinguard/core": "file:../core"
+  }
+}
