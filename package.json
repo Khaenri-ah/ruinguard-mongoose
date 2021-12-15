@@ -35,6 +35,7 @@
     "mongoose": "^6.0.13"
   },
   "devDependencies": {
-    "@ruinguard/core": "file:../ruinguard-core"
+    "@ruinguard/core": "file:../ruinguard-core",
+    "eslint-config-ruinguard": "^1.0.0"
   }
 }
