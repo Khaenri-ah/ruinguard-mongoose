@@ -1,6 +1,6 @@
 {
   "name": "@ruinguard/mongoose",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A RuinGuard module that adds a mongoose database to your bot",
   "keywords": [
     "modular",
