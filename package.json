@@ -31,11 +31,10 @@
   },
   "exports": "./index.js",
   "dependencies": {
-    "@ruinguard/core": "^0.1.1",
+    "@ruinguard/core": "^1.0.0",
     "mongoose": "^6.0.13"
   },
   "devDependencies": {
-    "@ruinguard/core": "file:../ruinguard-core",
     "eslint-config-ruinguard": "^1.0.0"
   }
 }
